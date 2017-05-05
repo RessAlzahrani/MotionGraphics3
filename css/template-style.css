@@ -1,11 +1,11 @@
 body {
-	background: none repeat scroll 0 0 #0b192f;
+	background: none repeat scroll 0 0 #f7efe2;
 	color: #fff;
 	font-family: roboto;
 	font-weight: 300;
 }
 nav {
-	background: none repeat scroll 0 0 #162b4d;
+	background: none repeat scroll 0 0 #8b0000;
 	position: relative;
 }
 a.logo {
@@ -17,10 +17,10 @@ a.logo {
 	padding: 0.6em;
 }
 a.logo span {
-	color: #d12767;
+	color: #edb83d;
 }
 header h1 {
-	color: #637693;
+	color: #ffa500;
 	display: inline;
 	font-size: 1em;
 	font-weight: 300;
@@ -32,8 +32,9 @@ header h1 {
 	font-size: 1.1em;
 	padding: 2em 1.25em;
 }
+/* highlight on nav bar */
 .top-nav li a:hover {
-	background: none repeat scroll 0 0 #283D5F;
+	background: none repeat scroll 0 0 #000000;
 }
 .top-nav .active-item a, .top-nav .active-item a:hover {
 	background: none repeat scroll 0 0 #0b192f;
@@ -69,11 +70,11 @@ section p {
 	opacity: 0.5;
 }
 #home-section .post-text {
-	color: #fff;
+	color: #000000;
 	padding: 2.25em;
 }
 #home-section .post-text h2 {
-	color: #fff;
+	color: #000000;
 	font-size: 3.2em;
 	font-weight: 100;
 	line-height: 1em;
@@ -118,19 +119,19 @@ section p {
 	text-align: right;
 }
 .post-1 {
-	background: none repeat scroll 0 0 #B71757;
+	background: none repeat scroll 0 0 #8b0000;
 }
 .post-2 {
-	background: none repeat scroll 0 0 #0D7E71;
+	background: none repeat scroll 0 0 #ffffff;
 }
 .post-3 {
-	background: none repeat scroll 0 0 #b1660e;
+	background: none repeat scroll 0 0 #8b0000;
 }
 .post-4 {
-	background: none repeat scroll 0 0 #d12767;
+	background: none repeat scroll 0 0 #ffffff;
 }
 .post-5 {
-	background: none repeat scroll 0 0 #2d95bb;
+	background: none repeat scroll 0 0 #8b0000;
 }
 .aside-block {
 	background: none repeat scroll 0 0 #fff;
@@ -156,7 +157,7 @@ aside p {
 	background: none repeat scroll 0 0 #fff;
 }
 footer {
-	background: none repeat scroll 0 0 #162b4d;
+	background: none repeat scroll 0 0 #8b0000;
 	display: inline-block;
 	margin-bottom: 0;
 	margin-top: 1.25em;
@@ -165,7 +166,7 @@ footer {
 	width: 100%;
 }
 footer p, footer a, footer a:link, footer a:active, footer a:visited {
-	color: #637693;
+	color: #000000;
 	font-size: 0.9em;
 }
 #article-section article {
@@ -190,7 +191,7 @@ footer p, footer a, footer a:link, footer a:active, footer a:visited {
 	padding: 2em 3em 3em;
 }
 #article-section .post-date p {
-	color: #fff;
+	color: #000000;
 }
 #article-section blockquote {
 	border-left: 2px solid #637693;
